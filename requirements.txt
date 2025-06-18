@@ -1,0 +1,8 @@
+streamlit>=1.25.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.0.0
+
+jsonschema>=4.17.0msgraph-sdk>=1.0.0msgraph-sdk>=1.0.0
+jsonschema>=4.17.0
